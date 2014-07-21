@@ -3,7 +3,7 @@ SimpleSignalRExample
 
 Introduction
 This is a very simple example of how we can use SignalR, based on the microsoft virtual academy cource 
-"Building apps with ASP.NET 4.5",  , it can be used like a gide to build a more complex web app. 
+"Building apps with ASP.NET 4.5", it can be used like a gide to build a more complex web app. 
 This solution requires NuGet packages to be downloaded. Visual Studio will download the necessary packages automatically. 
 This solution is designed for Visual Studio 2012
 
